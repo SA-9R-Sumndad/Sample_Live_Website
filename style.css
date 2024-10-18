@@ -1,0 +1,41 @@
+body{
+	background-color: #DAFFFB;
+	text-align: center;
+	color: #001C30;
+}
+
+h1 {
+	background-color: #64CCC5;\
+	color: #001C30;
+	font-size: 40px;
+}
+
+.container {
+	background-color: white;
+	color: #001C30;
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+input {
+	font-size: 20px;
+	background-color: #DAFFFB;
+	border-radius: 5px;
+}
+
+label {
+	font-size: 20px;
+}
+
+p {
+	font-size: 20px;
+	background-color: #64CCC5;
+	width: 375px;
+	border-radius: 5px;
+	margin: auto;
+}
